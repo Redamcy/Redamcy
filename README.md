@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning frontend development and design
+🌱 I’m currently learning frontend development and design <br>
 📫 Major: Web media
 
 <!--
